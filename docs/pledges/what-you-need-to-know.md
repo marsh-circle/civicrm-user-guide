@@ -54,7 +54,7 @@ contributor to make their payment online.
 In order for reminders to be sent:
 
 1.  The Process Pledges (process_pledge) scheduled job must be enabled
-    to updates pledge payment statuses and sends the payment reminders.
+    to update pledge payment statuses and send the payment reminders.
     Alternatively a cron job can be scheduled to run this specific task
     apart from other scheduled jobs. Refer to the *Scheduled Jobs*
     chapter for more information.
