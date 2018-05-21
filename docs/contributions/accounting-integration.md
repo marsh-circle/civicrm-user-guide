@@ -44,7 +44,7 @@ remains open.
 
 ### Assign Transactions to a Batch
 
-After creating a new accounting batch or opening an one you will be on the transaction assignment screen.
+After creating a new accounting batch or opening one you will be on the transaction assignment screen.
 
 ![Transaction Assignment Screen](/img/civicontribute-accounting-batches-transactions.png)
 
